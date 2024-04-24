@@ -6,3 +6,5 @@ This rep will be solely used for Angel customer analysis, a lot of new informati
 We have another customer level called Angel+ customer, later on when i get time i will update the informations and definication on what makes a customer Angel customer and what makes a customer Angel+
 
 For this specific purpose I used data from September, November and December 2023
+
+![dash upload](https://github.com/Risad-Raihan/Angel_Analysis/assets/72878885/d54d8584-f581-44b1-ade8-afa51fa444af)
